@@ -19,7 +19,7 @@
 
 > TCP提供一种**可靠的**传输，涉及**三次握手**、**四次挥手**。
 
-![](./imgs_computerNetwork/TCP-header.png)
+![](/imgs_computerNetwork/TCP-header.png)
 
 #### 三次握手
 
@@ -29,4 +29,4 @@
 
 **TCP之所以需要3次握手是因为TCP双方都是全双工的**。
 
-![](./imgs_computerNetwork/3shaking.png)
+![](/imgs_computerNetwork/3shaking.png)
